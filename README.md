@@ -1,1 +1,1 @@
-# crud-employees-sequelize-express
+# crud-employees-nodejs-sequelize-express
